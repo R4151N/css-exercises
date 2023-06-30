@@ -1,0 +1,13 @@
+.buttona,
+.buttonb {
+    font-size: 32px;
+}
+
+.buttona {
+    color: white;
+    background-color: black;
+}
+
+.buttonb {
+    background-color: yellow;
+}
