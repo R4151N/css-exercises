@@ -1,0 +1,17 @@
+.classone {
+  background-color: rosybrown;
+}
+
+.subsectionone.classone {
+  font-size: 32px;
+}
+
+#one {
+    color: blue;
+    font-size: 32px;
+  }
+
+#two {
+    background-color: greenyellow;
+    font-weight: bold;
+  }
